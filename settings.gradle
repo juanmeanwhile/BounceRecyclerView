@@ -1,0 +1,3 @@
+include ':app:recyclerview_bounce'
+include ':app'
+rootProject.name = "BounceRecyclerView"
